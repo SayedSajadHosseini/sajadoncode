@@ -4,13 +4,12 @@ function Writings(props) {
   return (
     <div>
       <div>
-        <h3 className="pt-5 font-bold">Writings</h3>
-        <ul className="pt-2">
-          <li className="pt-2">
-            <a href="#">Add style to next.js</a>
-          </li>
-          <li className="pt-2">
-            <a href="#">Top 2023 lang</a>
+        <h3 className="pt-5 font-bold text-2xl mb-2 text-yellow-500">
+          Writings
+        </h3>
+        <ul className="space-y-1 pl-3">
+          <li className="">
+            <a href="#"> Coming soon ...!</a>
           </li>
         </ul>
       </div>
